@@ -1,0 +1,5 @@
+Print length property of string one.
+Use the count funtion of string one to pass in a predicate lamda
+function which returns a boolean based on whether it matches
+against a given character.
+Print the length property of string two.
